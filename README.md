@@ -1,0 +1,2 @@
+# Intelligent-Energy-Management-System-for-Hybrid-Microgrids
+This project implements a next-generation Intelligent Energy Management System (I-EMS) designed for hybrid renewable microgrids (Solar/Wind/Battery/Grid). While traditional systems are "risk-blind" and rely on reactive, rule-based logic, this system uses a Probabilistic 3-Parallel ANN architecture to quantify mathematical uncertainty in real-time. 
